@@ -1,0 +1,51 @@
+         <nav class="border fixed split-nav">
+           <div class="nav-brand">
+              <h3><a routerLink="">Canadian Food.</a></h3>
+          </div>
+       </nav>
+
+
+          <div class="closed" class="container">
+            <div *ngFor="let meals of foodDirectives">
+              <div class="header"></div>
+              <div class="img-hover-zoom--brightness">
+              <img src= "{{ meals.strMealThumb}}">
+              </div>
+              <div class="title">{{ meals.strMeal}}</div>
+            
+            <article>
+              <ul class="ingredients">
+                <li> 
+                  <div class="amount">{{meals.strMeasure1}}</div>
+                  <div class="ingredient">{{meals.strIngredient1}}</div>
+                </li>
+                <li> 
+                  <div class="amount">{{meals.strMeasure2}}</div>
+                  <div class="ingredient">{{meals.strIngredient2}}</div>
+                </li>
+                <li> 
+                  <div class="amount">{{meals.strMeasure3}}</div>
+                  <div class="ingredient">{{meals.strIngredient3}}</div>
+                </li>
+                <li> 
+                  <div class="amount">{{meals.strMeasure4}}</div>
+                  <div class="ingredient">{{meals.strIngredient4}}</div>
+                </li>
+                <li> 
+                  <div class="amount">{{meals.strMeasure5}}</div>
+                  <div class="ingredient">{{meals.strIngredient5}}</div>
+                </li>
+                <li> 
+                  <div class="amount">{{meals.strMeasure6}}</div>
+                  <div class="ingredient">{{meals.strIngredient6}}</div>
+                </li>
+                <li> 
+                  <div class="amount">{{meals.strMeasure7}}</div>
+                  <div class="ingredient">{{meals.strIngredient7}}</div>
+                </li>
+              </ul>
+              <div class="preperation"> 
+               <div>{{ meals.strInstructions}}</div>
+              </div>
+            </article>
+          </div>

@@ -1,0 +1,50 @@
+<nav class="border fixed split-nav">
+  <div class="nav-brand">
+    <h3><a href="">Canadian Food.</a></h3>
+  </div>
+</nav>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  </head>
+  <body>
+    <div class="box">
+        <div class="card" *ngFor="let meals of canada">
+          <div class="imgBx">
+            <img src="{{ meals.strMealThumb}}">
+          </div>
+          <div class="details">
+              <h2>
+                <a routerLink="/details/{{ meals.idMeal }}"> {{ meals.strMeal}}</a><br>
+                <span>{{ meals.idMeal }}</span>
+              </h2>
+         
+          </div>
+        </div>
+      
+         <div class="card">
+           <div class="imgBx">
+              <img src="assets/breakfast-1804457.jpg">
+           </div>
+           <div class="details">
+              <h2>Vanilla Pie<br><span>694332</span></h2>
+            </div>
+         </div>
+  
+         <div class="card">
+           <div class="imgBx">
+              <img src="assets/asparagus-2169305.jpg">
+           </div>
+           <div class="details">
+              <h2>Grilled Beef<br><span>54322</span></h2>
+            </div>
+         </div>
+   
+    </div>
+  </body>
+  
+
+
+
+  
