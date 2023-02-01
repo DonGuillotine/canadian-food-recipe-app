@@ -30,7 +30,7 @@ Start your culinary journey today and enjoy the taste of Canada at your fingerti
 
 I welcome and appreciate contributions to this open-source project!
 
-## Getting Started
+## Getting Started!
 1. Fork this repository on GitHub
 2. Clone this repository to your local machine
 3. Create a new branch for your changes
