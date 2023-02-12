@@ -4,7 +4,7 @@
   <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular Logo">
 </p>
 
-## Discover the Best of Canadian Cuisine
+## Discover the Best of Canadian Cuisine.
 
 With my Angular-powered recipe web app, you can explore a wide variety of delicious Canadian recipes. The recipes are integrated with a food API, ensuring that the information is accurate and up-to-date. 
 
@@ -20,7 +20,7 @@ Bring each recipe to life with animations that immerse you in the cooking experi
 
 Our recipe web app has a sleek and modern design, made with paper CSS. The intuitive user interface makes it easy to view your favorite recipes. 
 
-## Start Your Culinary Journey Today
+## Start Your Culinary Journey Today!
 
 Start your culinary journey today and enjoy the taste of Canada at your fingertips. Try a new recipe and discover your next favorite dish.
 
