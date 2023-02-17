@@ -1,4 +1,4 @@
-# Canadian Food Recipe Web App Built with Angular.
+# Canadian Food Recipe Web App Built with Angular!
 
 <p align="center">
   <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular Logo">
