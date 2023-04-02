@@ -18,7 +18,7 @@ Bring each recipe to life with animations that immerse you in the cooking experi
 
 ## Sleek and Modern Design
 
-Our recipe web app has a sleek and modern design, made with paper CSS. The intuitive user interface makes it easy to view your favorite recipes. 
+My recipe web app has a sleek and modern design, made with paper CSS. The intuitive user interface makes it easy to view your favorite recipes. 
 
 ## Start Your Culinary Journey Today!
 
