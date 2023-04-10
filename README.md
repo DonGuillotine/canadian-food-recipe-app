@@ -4,7 +4,7 @@
   <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular Logo">
 </p>
 
-## Discover the Best of Canadian Cuisine.
+## Discover the Best of Canadian Cuisine!
 
 With my Angular-powered recipe web app, you can explore a wide variety of delicious Canadian recipes. The recipes are integrated with a food API, ensuring that the information is accurate and up-to-date. 
 
